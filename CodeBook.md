@@ -1,4 +1,4 @@
-#Code Book for Course 3 Getting and Cleaning Data Project Assignment
+# Code Book for Course 3 Getting and Cleaning Data Project Assignment
 
 Authored by yfhong60
 
@@ -11,7 +11,7 @@ Project data can be found in the following link:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-##Data Cleaning and Processing Steps
+## Data Cleaning and Processing Steps
 
 When the script run_analysis.R is run, the following steps will be taken:
 
